@@ -1,5 +1,5 @@
 img{
-	width: 30%;
+	height: 30%;
 }
 body{
 	background-image: url(HD-wallpaper-marvel-y-dc-heroes-super.jpg);
@@ -17,12 +17,11 @@ h1{
 p{
 	color: #FFFFFF;
 	text-align: left;
-	font-size: 18px;
+	font-size: 20px;
 }
 table#abajo{
 	color: #FFFFFF;
 	width: 100%;
-	background-color: #000000;
 }
 table#arriba{
 	background-color: #000000;
@@ -33,7 +32,6 @@ table#arriba{
 a{
 	color: #FFFFFF;
 }
-div#noticia{
-	color: #000000;
-	background-color: #000000;
+img#Kamala{
+	width: 50%;
 }
