@@ -1,0 +1,39 @@
+img{
+	width: 30%;
+}
+body{
+	background-image: url(HD-wallpaper-marvel-y-dc-heroes-super.jpg);
+	font-family: "Century Gothic";
+	margin-top: 2%;
+	margin-right:17%;
+	margin-left: 17%;
+	border-color: #000000;
+	background-size: 100%;
+}
+h1{
+	color: #FFFFFF;
+	text-align: center;
+}
+p{
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 18px;
+}
+table#abajo{
+	color: #FFFFFF;
+	width: 100%;
+	background-color: #000000;
+}
+table#arriba{
+	background-color: #000000;
+	width: 100%;
+	font-size: 20px;
+	font-family: "Century Gothic";
+}
+a{
+	color: #FFFFFF;
+}
+div#noticia{
+	color: #000000;
+	background-color: #000000;
+}
