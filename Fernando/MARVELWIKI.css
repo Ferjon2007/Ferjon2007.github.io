@@ -6,7 +6,8 @@ body{
 	margin-left: 17%;
 	border-color: #000000;
 	background-size:  100%;
-
+	margin-bottom: 5%;
+	background-attachment: fixed;
 }
 a{
 	color: #FFFFFF;
